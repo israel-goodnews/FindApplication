@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#170F25</color>
+    <color name="colorPrimaryDark">#8493EA</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="home">#7009e6</color>
+    <color name="search">#bd09e6</color>
+    <color name="profile">#09e2e6</color>
+    <color name="chat">#4b09e6</color>
+    <color name="add">#4b09e6</color>
+</resources>
